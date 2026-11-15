@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" preserveAspectRatio="xMidYMid slice">
+  <rect width="600" height="300" fill="#12284a"/>
+  <circle cx="60" cy="260" r="160" fill="#6c9cff" opacity=".16"/>
+  <g transform="translate(150 55)">
+    <rect width="300" height="190" rx="14" fill="#0b1220" stroke="#6c9cff" stroke-opacity=".6"/>
+    <rect width="300" height="40" rx="14" fill="#1b3152"/><rect y="24" width="300" height="16" fill="#1b3152"/>
+    <g fill="#78b2ff"><rect x="20" y="14" width="60" height="10" rx="5"/><rect x="120" y="14" width="50" height="10" rx="5"/><rect x="215" y="14" width="60" height="10" rx="5"/></g>
+    <g fill="#9eb3d4" opacity=".6">
+      <rect x="20" y="68" width="70" height="9" rx="4"/><rect x="120" y="68" width="40" height="9" rx="4"/><rect x="215" y="68" width="65" height="9" rx="4" fill="#55d6a0"/>
+      <rect x="20" y="108" width="85" height="9" rx="4"/><rect x="120" y="108" width="40" height="9" rx="4"/><rect x="215" y="108" width="65" height="9" rx="4" fill="#55d6a0"/>
+      <rect x="20" y="148" width="60" height="9" rx="4"/><rect x="120" y="148" width="40" height="9" rx="4"/><rect x="215" y="148" width="65" height="9" rx="4" fill="#55d6a0"/>
+    </g>
+  </g>
+  <circle cx="470" cy="80" r="34" fill="#ffd36b"/><text x="470" y="92" text-anchor="middle" font-family="monospace" font-weight="800" font-size="34" fill="#7a5410">₱</text>
+</svg>

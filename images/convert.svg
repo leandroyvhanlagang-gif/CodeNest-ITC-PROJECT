@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" preserveAspectRatio="xMidYMid slice">
+  <rect width="600" height="300" fill="#1c1840"/>
+  <circle cx="500" cy="60" r="140" fill="#a98bff" opacity=".18"/>
+  <g font-family="monospace" font-weight="700" fill="#a98bff" opacity=".35" font-size="22">
+    <text x="30" y="60">km</text><text x="130" y="250">kg</text><text x="430" y="260">°C</text><text x="500" y="150">ft</text><text x="40" y="170">lb</text>
+  </g>
+  <g fill="none" stroke="#c9b8ff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M190 120H410M375 85l35 35-35 35"/>
+    <path d="M410 190H190M225 155l-35 35 35 35"/>
+  </g>
+</svg>
